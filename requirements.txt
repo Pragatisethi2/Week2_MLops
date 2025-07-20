@@ -2,4 +2,12 @@ pandas
 numpy==1.26.4
 scikit-learn
 joblib
+scikit-learn
+pandas
+numpy
+joblib
+dvc
+mlflow
+feast
+pytest
 
