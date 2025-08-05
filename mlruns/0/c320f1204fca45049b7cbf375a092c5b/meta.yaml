@@ -1,0 +1,14 @@
+artifact_uri: file:///home/pragatisethi1106_gmail_com/Week2_MLops/mlruns/0/c320f1204fca45049b7cbf375a092c5b/artifacts
+end_time: 1754397042780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c320f1204fca45049b7cbf375a092c5b
+run_name: legendary-cat-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754397039838
+status: 3
+tags: []
+user_id: pragatisethi1106_gmail_com

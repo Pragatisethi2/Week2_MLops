@@ -1,0 +1,14 @@
+artifact_uri: file:///home/pragatisethi1106_gmail_com/Week2_MLops/mlruns/0/3fba5cd10d604e77b29dbb9c6de0387b/artifacts
+end_time: 1754397047967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fba5cd10d604e77b29dbb9c6de0387b
+run_name: spiffy-yak-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754397044994
+status: 3
+tags: []
+user_id: pragatisethi1106_gmail_com

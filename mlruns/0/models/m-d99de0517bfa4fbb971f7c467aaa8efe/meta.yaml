@@ -1,0 +1,10 @@
+artifact_location: file:///home/pragatisethi1106_gmail_com/Week2_MLops/mlruns/0/models/m-d99de0517bfa4fbb971f7c467aaa8efe/artifacts
+creation_timestamp: 1754397039883
+experiment_id: '0'
+last_updated_timestamp: 1754397042778
+model_id: m-d99de0517bfa4fbb971f7c467aaa8efe
+model_type: null
+name: model
+source_run_id: c320f1204fca45049b7cbf375a092c5b
+status: 2
+status_message: null

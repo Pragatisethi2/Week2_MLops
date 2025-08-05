@@ -1,0 +1,14 @@
+artifact_uri: file:///home/pragatisethi1106_gmail_com/Week2_MLops/mlruns/0/67b1a327b1284f6c8f0cc9520966faf4/artifacts
+end_time: 1754397058407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67b1a327b1284f6c8f0cc9520966faf4
+run_name: mercurial-ant-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754397055403
+status: 3
+tags: []
+user_id: pragatisethi1106_gmail_com
